@@ -38,31 +38,31 @@ namespace arraylist
             // Console.WriteLine("*****Short******");
 
             // liste.Sort();
-            foreach (var item in liste)
-            {
-                Console.WriteLine(item);
-            }
+            // foreach (var item in liste)
+            // {
+            //     Console.WriteLine(item);
+            // }
 
-            Console.WriteLine("*******Binary Search***********");
-            Console.WriteLine(liste.BinarySearch(26));
+            // Console.WriteLine("*******Binary Search***********");
+            // Console.WriteLine(liste.BinarySearch(26));
 
-            //Reverse
+            // //Reverse
 
-            Console.WriteLine("*******Reveerse***********");
-            liste.Reverse();
-            foreach (var item in liste)
-            {
-                Console.WriteLine(item);
-            }
+            // Console.WriteLine("*******Reveerse***********");
+            // liste.Reverse();
+            // foreach (var item in liste)
+            // {
+            //     Console.WriteLine(item);
+            // }
 
-            // Clear
+            // // Clear
 
-            Console.WriteLine("*******Clear***********");
-            liste.Clear();
-            foreach (var item in liste)
-            {
-                Console.WriteLine(item);
-            }
+            // Console.WriteLine("*******Clear***********");
+            // liste.Clear();
+            // foreach (var item in liste)
+            // {
+            //     Console.WriteLine(item);
+            // }
         }
     }
 
